@@ -1,0 +1,2 @@
+# BOARD
+ALOHA CLASS 기본 게시판
